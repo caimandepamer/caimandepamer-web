@@ -188,7 +188,7 @@
   background-color: #FF0000 }
 .button.button-yt_telegram:hover,
 .button.button-yt_telegram:hover:before {
-    content: 'Un poco de privacidad y libertad no nos caer&iacute;an mal cierto?.';
+    content: 'Un poco de privacidad y libertad no nos caerian mal cierto?.';
     white-space: initial; }
 
 /* skype */
@@ -215,7 +215,7 @@
   background-color: #FF0000 }
 .button.button-yt_mail:hover,
 .button.button-yt_mail:hover:before {
-    content: 'Deseas mandarme un correo?... es por ac&aacute;!!.';
+    content: 'Deseas mandarme un correo?... es por aca!!.';
     white-space: initial; }
 
 
@@ -225,7 +225,7 @@
   background-color: #FF0000 }
 .button.button-yt_consultoria:hover,
 .button.button-yt_consultoria:hover:before {
-    content: 'Programemos una consultor&iacute;a!.';
+    content: 'Programemos una consultoria!.';
     white-space: initial; }
 
 
