@@ -177,8 +177,8 @@
 .button.button-yt_vcard {
   color: #FFFFFF;
   background-color: #FF0000 }
-.button.button-youtube:hover,
-.button.button-youtube:hover:before {
+.button.button-yt_vcard:hover,
+.button.button-yt_vcard:hover:before {
     content: 'Descarga mi vCard y al abrirla tendras todos mis medios de contactos.';
     white-space: initial; }
 
@@ -186,8 +186,8 @@
 .button.button-yt_telegram {
   color: #FFFFFF;
   background-color: #FF0000 }
-.button.button-youtube:hover,
-.button.button-youtube:hover:before {
+.button.button-yt_telegram:hover,
+.button.button-yt_telegram:hover:before {
     content: 'Un poco de privacidad y libertad no nos caer&iacute;an mal cierto?.';
     white-space: initial; }
 
@@ -195,8 +195,8 @@
 .button.button-yt_skype {
   color: #FFFFFF;
   background-color: #FF0000 }
-.button.button-youtube:hover,
-.button.button-youtube:hover:before {
+.button.button-yt_skype:hover,
+.button.button-yt_skype:hover:before {
     content: 'Algun rezagado?, usemos Skype!.';
     white-space: initial; }
 
@@ -204,8 +204,8 @@
 .button.button-yt_github {
   color: #FFFFFF;
   background-color: #FF0000 }
-.button.button-youtube:hover,
-.button.button-youtube:hover:before {
+.button.button-yt_github:hover,
+.button.button-yt_github:hover:before {
     content: 'ALgunas pruebas, experimentos, scripts y contenedores de ayuda.';
     white-space: initial; }
 
@@ -213,8 +213,8 @@
 .button.button-yt_mail {
   color: #FFFFFF;
   background-color: #FF0000 }
-.button.button-youtube:hover,
-.button.button-youtube:hover:before {
+.button.button-yt_mail:hover,
+.button.button-yt_mail:hover:before {
     content: 'Deseas mandarme un correo?... es por ac&aacute;!!.';
     white-space: initial; }
 
@@ -223,8 +223,8 @@
 .button.button-yt_consultoria {
   color: #FFFFFF;
   background-color: #FF0000 }
-.button.button-youtube:hover,
-.button.button-youtube:hover:before {
+.button.button-yt_consultoria:hover,
+.button.button-yt_consultoria:hover:before {
     content: 'Programemos una consultor&iacute;a!.';
     white-space: initial; }
 
