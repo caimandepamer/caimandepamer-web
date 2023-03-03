@@ -105,14 +105,7 @@
     content: 'Aquí vas a encontrar la lista completa y actualizada de todo el hardware que uso para trabajar y hacer mis videos de YouTube.';
     white-space: initial; }
 
-/* YouTube */
-.button.button-youtube {
-  color: #FFFFFF;
-  background-color: #FF0000 }
-.button.button-youtube:hover,
-.button.button-youtube:hover:before {
-    content: 'Aun no tengo mucho contenido grabado pero pronto estara aca!.';
-    white-space: initial; }
+
 
 /* Slides */
 .button.button-slides {
@@ -167,3 +160,79 @@
 .button.button-sponsors:hover:before {
     content: 'Si quieres trabajar conmigo, patrocinando algún video en mi canal, te recomiendo que leas esta página primero.';
     white-space: initial; }
+
+
+/* ================================================================================================= */
+
+/* YouTube */
+.button.button-youtube {
+  color: #FFFFFF;
+  background-color: #FF0000 }
+.button.button-youtube:hover,
+.button.button-youtube:hover:before {
+    content: 'Aun no tengo mucho contenido grabado pero pronto estara aca!.';
+    white-space: initial; }
+
+/* vcard */
+.button.button-yt_vcard {
+  color: #FFFFFF;
+  background-color: #FF0000 }
+.button.button-youtube:hover,
+.button.button-youtube:hover:before {
+    content: 'Descarga mi vCard y al abrirla tendras todos mis medios de contactos.';
+    white-space: initial; }
+
+/* telegram */
+.button.button-yt_telegram {
+  color: #FFFFFF;
+  background-color: #FF0000 }
+.button.button-youtube:hover,
+.button.button-youtube:hover:before {
+    content: 'Un poco de privacidad y libertad no nos caer&iacute;an mal cierto?.';
+    white-space: initial; }
+
+/* skype */
+.button.button-yt_skype {
+  color: #FFFFFF;
+  background-color: #FF0000 }
+.button.button-youtube:hover,
+.button.button-youtube:hover:before {
+    content: 'Algun rezagado?, usemos Skype!.';
+    white-space: initial; }
+
+/* github */
+.button.button-yt_github {
+  color: #FFFFFF;
+  background-color: #FF0000 }
+.button.button-youtube:hover,
+.button.button-youtube:hover:before {
+    content: 'ALgunas pruebas, experimentos, scripts y contenedores de ayuda.';
+    white-space: initial; }
+
+/* mail */
+.button.button-yt_mail {
+  color: #FFFFFF;
+  background-color: #FF0000 }
+.button.button-youtube:hover,
+.button.button-youtube:hover:before {
+    content: 'Deseas mandarme un correo?... es por ac&aacute;!!.';
+    white-space: initial; }
+
+
+/* consultoria */
+.button.button-yt_consultoria {
+  color: #FFFFFF;
+  background-color: #FF0000 }
+.button.button-youtube:hover,
+.button.button-youtube:hover:before {
+    content: 'Programemos una consultor&iacute;a!.';
+    white-space: initial; }
+
+
+
+
+
+
+
+
+
